@@ -6,5 +6,3 @@ This is a flutter app in which random word pairs automatically generated are dis
 
 - Flutter
 - Dart
-- Kotlin
-- HTML
